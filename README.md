@@ -44,4 +44,4 @@ For further discussion on any of these projects or opportunities for collaborati
 
 ---
 
-Thank you for exploring my Data Analytics Portfolio. I am always looking to improve and tackle new challenges, and I welcome any feedback or questions you may have regarding my work.
+Thank you for exploring my Data Analytics Portfolio. I am always looking to improve and tackle new challenges, and I welcome any feedback or questions.
