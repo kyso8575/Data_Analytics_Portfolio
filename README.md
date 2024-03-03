@@ -39,8 +39,8 @@ Hello My name is Yunso Kim. This repository is for my Data Analytics Portfolio! 
 
 For further discussion on any of these projects or opportunities for collaboration, feel free to reach out:
 
-- **Email**: [Email](mailto:kyso8575@gmail.com)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/yunsokim)
+- **Email**: [kysp8575@gmail.com](mailto:kyso8575@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/yunsokim](https://www.linkedin.com/in/yunsokim)
 
 ---
 
