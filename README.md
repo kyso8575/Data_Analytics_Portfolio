@@ -16,11 +16,15 @@ Hello My name is Yunso Kim. This repository is for my Data Analytics Portfolio! 
 
 **Skills**: Python
 
-#### 3. Employee Satisfaction Analysis
+#### 3. Bike Store Sales Analysis
+
+**Skills**: SQL
+
+#### 4. Employee Satisfaction Analysis
 
 **Skills**: Excel, SQL
 
-#### 4. World Happiness Analysis
+#### 5. World Happiness Analysis
 
 **Skills**: SQL, Tableau
 
@@ -28,7 +32,7 @@ Hello My name is Yunso Kim. This repository is for my Data Analytics Portfolio! 
 
 ## Tools & Technologies
 
-- **SQL**: Data extraction and querying from databases.
+- **SQL**: Data extraction and querying from relational databases.
 - **Python**: Data manipulation, analysis, statistical testing.
 - **Tableau**: Building interactive and insightful dashboards.
 - **Excel**: Spreadsheet analysis, pivot tables, and charting.
