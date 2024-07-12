@@ -8,23 +8,27 @@ Hello My name is Yunso Kim. This repository is for my Data Analytics Portfolio! 
 
 ## Projects
 
-#### 1. Video Game Sales Analysis
+#### 1. Employee Attrition Prediction
+
+**Skills**: Python (Machine Learning)
+
+#### 2. Video Game Sales Analysis
 
 **Skills**: Tableau, Excel, Python
 
-#### 2. Car Sales Analysis
+#### 3. Car Sales Analysis
 
 **Skills**: Python
 
-#### 3. Bike Store Sales Analysis
+#### 4. Bike Store Sales Analysis
 
 **Skills**: SQL
 
-#### 4. Employee Satisfaction Analysis
+#### 5. Employee Satisfaction Analysis
 
 **Skills**: Excel, SQL
 
-#### 5. World Happiness Analysis
+#### 6. World Happiness Analysis
 
 **Skills**: SQL, Tableau
 
