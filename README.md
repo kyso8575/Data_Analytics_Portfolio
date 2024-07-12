@@ -37,7 +37,7 @@ Hello My name is Yunso Kim. This repository is for my Data Analytics Portfolio! 
 ## Tools & Technologies
 
 - **SQL**: Data extraction and querying from relational databases.
-- **Python**: Data manipulation, analysis, statistical testing.
+- **Python**: Data manipulation, analysis, statistical testing, and machine learning.
 - **Tableau**: Building interactive and insightful dashboards.
 - **Excel**: Spreadsheet analysis, pivot tables, and charting.
 
