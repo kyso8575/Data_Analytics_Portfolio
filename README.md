@@ -2,7 +2,7 @@
 
 ## Overview
 
-Hello My name is Yunso Kim. This repository is for my Data Analytics Portfolio! This collection shows my ability to extract insights and make data-driven decisions using a variety of tools and technologies. My projects demonstrate skills in SQL, Tableau, Python, and Excel. Each project is carefully structured to address specific questions and provides a clear narrative on the findings.
+Hello My name is Yunso Kim. This repository is for my Data Science Portfolio! This collection shows my ability to extract insights and make data-driven decisions using a variety of tools and technologies. My projects demonstrate skills in SQL, Tableau, Python, and Excel. Each project is carefully structured to address specific questions and provides a clear narrative on the findings.
 
 ---
 
@@ -10,25 +10,29 @@ Hello My name is Yunso Kim. This repository is for my Data Analytics Portfolio! 
 
 #### 1. Employee Attrition Prediction
 
-**Skills**: Python (Machine Learning)
+**Skills**: Python (Classification)
 
-#### 2. Video Game Sales Analysis
+#### 2. Salary Prediction
+
+**Skills**: Python (Regression)
+
+#### 3. Video Game Sales Analysis
 
 **Skills**: Tableau, Excel, Python
 
-#### 3. Car Sales Analysis
+#### 4. Car Sales Analysis
 
 **Skills**: Python
 
-#### 4. Bike Store Sales Analysis
+#### 5. Bike Store Sales Analysis
 
 **Skills**: SQL
 
-#### 5. Employee Satisfaction Analysis
+#### 6. Employee Satisfaction Analysis
 
 **Skills**: Excel, SQL
 
-#### 6. World Happiness Analysis
+#### 7. World Happiness Analysis
 
 **Skills**: SQL, Tableau
 
