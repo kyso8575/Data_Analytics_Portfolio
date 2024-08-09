@@ -1,12 +1,36 @@
-# Portfolio: Data Analytics Projects
+# Data Science Portfolio
 
 ## Overview
 
-Hello My name is Yunso Kim. This repository is for my Data Science Portfolio! This collection shows my ability to extract insights and make data-driven decisions using a variety of tools and technologies. My projects demonstrate skills in SQL, Tableau, Python, and Excel. Each project is carefully structured to address specific questions and provides a clear narrative on the findings.
+Welcome to my Data Science Portfolio, where I showcase a dual expertise in Data Analytics and Data Science. My analytics projects leverage SQL, Python, Excel, and Tableau to extract insights and inform business decisions, emphasizing my ability to manipulate and visualize data effectively. On the data science front, I utilize Python to develop sophisticated models in Machine Learning—including classification and regression—and delve into Natural Language Processing (NLP) to enable machines to understand and process human language. This portfolio highlights my comprehensive skill set across both analytical and predictive disciplines, demonstrating my capacity to transform raw data into actionable knowledge and predictive insights.
 
 ---
 
-## Projects
+## Data Analytics Projects
+
+#### 1. Video Game Sales Analysis
+
+**Skills**: Tableau, Excel, Python
+
+#### 2. Bike Store Sales Analysis
+
+**Skills**: SQL
+
+#### 3. Employee Satisfaction Analysis
+
+**Skills**: Excel, SQL
+
+#### 4. World Happiness Analysis
+
+**Skills**: SQL, Tableau
+
+#### 5. Car Sales Analysis
+
+**Skills**: Python
+
+&nbsp;
+
+## Data Science Projects
 
 #### 1. Employee Attrition Prediction
 
@@ -16,32 +40,16 @@ Hello My name is Yunso Kim. This repository is for my Data Science Portfolio! Th
 
 **Skills**: Python (Regression)
 
-#### 3. Video Game Sales Analysis
+#### 3. Twitter Sentiment Analysis
 
-**Skills**: Tableau, Excel, Python
-
-#### 4. Car Sales Analysis
-
-**Skills**: Python
-
-#### 5. Bike Store Sales Analysis
-
-**Skills**: SQL
-
-#### 6. Employee Satisfaction Analysis
-
-**Skills**: Excel, SQL
-
-#### 7. World Happiness Analysis
-
-**Skills**: SQL, Tableau
+**Skills**: Python (NLP)
 
 ---
 
 ## Tools & Technologies
 
 - **SQL**: Data extraction and querying from relational databases.
-- **Python**: Data manipulation, analysis, statistical testing, and machine learning.
+- **Python**: Data manipulation, statistical analysis, machine learning, and NLP
 - **Tableau**: Building interactive and insightful dashboards.
 - **Excel**: Spreadsheet analysis, pivot tables, and charting.
 
